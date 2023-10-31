@@ -1,0 +1,16 @@
+C:\Users\denis\source\repos\testir\testir\bin\Debug\testir.exe.config
+C:\Users\denis\source\repos\testir\testir\bin\Debug\testir.exe
+C:\Users\denis\source\repos\testir\testir\bin\Debug\testir.pdb
+C:\Users\denis\source\repos\testir\testir\obj\Debug\testir.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\testir\testir\obj\Debug\testir.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\source\repos\testir\testir\obj\Debug\testir.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\testir\testir\obj\Debug\testir.exe
+C:\Users\denis\source\repos\testir\testir\obj\Debug\testir.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Справочник\Second\testir\bin\Debug\testir.exe.config
+C:\Users\denis\OneDrive\Рабочий стол\Справочник\Second\testir\bin\Debug\testir.exe
+C:\Users\denis\OneDrive\Рабочий стол\Справочник\Second\testir\bin\Debug\testir.pdb
+C:\Users\denis\OneDrive\Рабочий стол\Справочник\Second\testir\obj\Debug\testir.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\Справочник\Second\testir\obj\Debug\testir.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\OneDrive\Рабочий стол\Справочник\Second\testir\obj\Debug\testir.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\Справочник\Second\testir\obj\Debug\testir.exe
+C:\Users\denis\OneDrive\Рабочий стол\Справочник\Second\testir\obj\Debug\testir.pdb
